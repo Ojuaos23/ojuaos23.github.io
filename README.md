@@ -8,7 +8,7 @@ The website is actively hosted and live via GitHub Pages.
 
 The website is currently deployed and fully accessible at the following public URL:
 
-View the Live Portfolio Site (GitHub Pages)
+[View the Live Portfolio Site (GitHub Pages)](https://ojuaos23.github.io/)
 
 The Oracle Cloud Infrastructure (OCI) deployment link is available upon request as part of the technical deep-dive.
 
