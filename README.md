@@ -52,6 +52,12 @@ assets/: Contains all CSS files, JavaScript files, and fonts.
 
 images/: Contains all static media, including the avatar, project icons, and background images.
 
+images/
+
+├── placeholder-files/    # Original template images (archived)
+
+└── screenshots/          # Project documentation and evidence
+
 README.md: This file, explaining the project architecture and deployment.
 
 📞 Connect with Me
